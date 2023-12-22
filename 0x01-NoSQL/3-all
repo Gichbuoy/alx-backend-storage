@@ -1,0 +1,3 @@
+// script that lists all docs in the collection
+
+db.school.find()
